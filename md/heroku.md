@@ -1,3 +1,4 @@
+
 ## 20181205LT
 
 ---
@@ -19,7 +20,9 @@ Note:
 
 ---
 
+```
 `#Webサービス開発RTA`
+```
 
 Note:
 
@@ -101,7 +104,7 @@ Heroku
 
 ---
 
-チュートリアルの画像
+![heroku-tutorial](img/heroku-tutorial.png)
 
 ---
 
@@ -131,6 +134,10 @@ Note:
 アドオンで例えばMongoDBが使える。
 クレカ登録する必要はあるけど、無料で使える。
 ClearDB MySQLとか
+
+---
+
+![heroku-addon](img/heroku-addon.png)
 
 ---
 
